@@ -1,6 +1,8 @@
 node-asterisk-ami
 =================
 
+> **Part of the FreePBX / voice ecosystem.** This fork is kept for reference; no current project uses it. How this repo fits with the other FreePBX/Asterisk voice projects (what runs on pbx01, which repo owns which piece, what lives outside git) is documented in the shared hub, [ExactDoug/freepbx-docs-shared](https://github.com/ExactDoug/freepbx-docs-shared) (local: `~/dev/projects/github/freepbx-docs-shared`). Start with its `project-ecosystem-overview.md`.
+
 Asterisk AMI library for NodeJS
 
 Inspired by:
